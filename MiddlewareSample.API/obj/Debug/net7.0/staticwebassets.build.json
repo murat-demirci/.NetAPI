@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wXcIKIxKmdtaHUhe9QD3AcD1lf9NvkSrxgaiQvC4F0Y=",
+  "Source": "MiddlewareSample.API",
+  "BasePath": "_content/MiddlewareSample.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ryr0fI7u2TrTGNstjgyOE2irHyrP9yDepaK+9RMgJog=",
+  "Source": "MiddlewareAuthenticationSample.API",
+  "BasePath": "_content/MiddlewareAuthenticationSample.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

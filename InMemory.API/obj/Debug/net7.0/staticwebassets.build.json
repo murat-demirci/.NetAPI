@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RAPpCb4Zm6Bf3Y4AabG1eC81sLHGrWcyU/CccaRSono=",
+  "Source": "InMemory.API",
+  "BasePath": "_content/InMemory.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

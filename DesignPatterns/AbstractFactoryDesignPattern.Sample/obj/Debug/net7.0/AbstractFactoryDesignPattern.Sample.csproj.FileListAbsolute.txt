@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\bin\Debug\net7.0\AbstractFactoryDesignPattern.Sample.exe
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\bin\Debug\net7.0\AbstractFactoryDesignPattern.Sample.deps.json
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\bin\Debug\net7.0\AbstractFactoryDesignPattern.Sample.runtimeconfig.json
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\bin\Debug\net7.0\AbstractFactoryDesignPattern.Sample.dll
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\bin\Debug\net7.0\AbstractFactoryDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.AssemblyInfo.cs
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.dll
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\refint\AbstractFactoryDesignPattern.Sample.dll
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\AbstractFactoryDesignPattern.Sample.genruntimeconfig.cache
+C:\Users\demur\Desktop\DesignPatterns\AbstractFactoryDesignPattern.Sample\obj\Debug\net7.0\ref\AbstractFactoryDesignPattern.Sample.dll

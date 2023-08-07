@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\bin\Debug\net7.0\BuilderDesignPattern.Sample.exe
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\bin\Debug\net7.0\BuilderDesignPattern.Sample.deps.json
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\bin\Debug\net7.0\BuilderDesignPattern.Sample.runtimeconfig.json
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\bin\Debug\net7.0\BuilderDesignPattern.Sample.dll
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\bin\Debug\net7.0\BuilderDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.AssemblyInfo.cs
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.dll
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\refint\BuilderDesignPattern.Sample.dll
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\BuilderDesignPattern.Sample.genruntimeconfig.cache
+C:\Users\demur\Desktop\BuilderDesignPattern.Sample\obj\Debug\net7.0\ref\BuilderDesignPattern.Sample.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AbstractFactoryDesignPattern.Sample/1.0.0": {
+        "runtime": {
+          "AbstractFactoryDesignPattern.Sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryDesignPattern.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿::1 | 61910 => ::1 | 7040
+REQUEST
+Method: GET
+Path:/WeatherForecast
+Body: 
+RESPONSE
+StatusCode: 200
+Headers:Content-Type: application/json; charset=utf-8Date: Fri, 04 Aug 2023 07:04:07 GMTServer: KestrelSet-Cookie: MyCookie=TheValue; expires=Fri, 04 Aug 2023 08:04:07 GMT; path=/Transfer-Encoding: chunked
+Cookies: MyCookie: TheValue

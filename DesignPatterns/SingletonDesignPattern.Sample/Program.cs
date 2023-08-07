@@ -1,0 +1,4 @@
+﻿using SingletonDesignPattern.Sample;
+
+StaticPropertyContext context1 = StaticPropertyContext.CreateStaticContext;
+StaticPropertyContext context2 = StaticPropertyContext.CreateStaticContext;

@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\bin\Debug\net7.0\StageDesignPattern.ETicaretSample.exe
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\bin\Debug\net7.0\StageDesignPattern.ETicaretSample.deps.json
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\bin\Debug\net7.0\StageDesignPattern.ETicaretSample.runtimeconfig.json
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\bin\Debug\net7.0\StageDesignPattern.ETicaretSample.dll
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\bin\Debug\net7.0\StageDesignPattern.ETicaretSample.pdb
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.AssemblyInfo.cs
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.dll
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\refint\StageDesignPattern.ETicaretSample.dll
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.pdb
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\StageDesignPattern.ETicaretSample.genruntimeconfig.cache
+C:\Users\demur\Desktop\StageDesignPattern.ETicaretSample\obj\Debug\net7.0\ref\StageDesignPattern.ETicaretSample.dll

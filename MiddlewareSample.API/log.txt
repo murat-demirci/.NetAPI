@@ -1,0 +1,8 @@
+GET - /WeatherForecast => 200
+GET - /WeatherForecast/test => 404
+GET - /WeatherForecast => 200
+GET - /WeatherForecast => 200
+GET - /WeatherForecast => 200
+GET - /WeatherForecast => 200
+GET - /WeatherForecast => 200
+GET - /WeatherForecast => 200

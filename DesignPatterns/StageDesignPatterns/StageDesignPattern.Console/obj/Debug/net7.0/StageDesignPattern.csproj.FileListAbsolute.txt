@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.AssemblyInfo.cs
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\StageDesignPattern.Console\bin\Debug\net7.0\StageDesignPattern.exe
+C:\Users\demur\Desktop\StageDesignPattern.Console\bin\Debug\net7.0\StageDesignPattern.deps.json
+C:\Users\demur\Desktop\StageDesignPattern.Console\bin\Debug\net7.0\StageDesignPattern.runtimeconfig.json
+C:\Users\demur\Desktop\StageDesignPattern.Console\bin\Debug\net7.0\StageDesignPattern.dll
+C:\Users\demur\Desktop\StageDesignPattern.Console\bin\Debug\net7.0\StageDesignPattern.pdb
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.dll
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\refint\StageDesignPattern.dll
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.pdb
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\StageDesignPattern.genruntimeconfig.cache
+C:\Users\demur\Desktop\StageDesignPattern.Console\obj\Debug\net7.0\ref\StageDesignPattern.dll

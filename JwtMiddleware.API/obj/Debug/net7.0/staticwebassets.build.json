@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5nw8bhNkCo1wvuIvFgWzqGndP38bbWrTzi0hTyu6lyI=",
+  "Source": "JwtMiddleware.API",
+  "BasePath": "_content/JwtMiddleware.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

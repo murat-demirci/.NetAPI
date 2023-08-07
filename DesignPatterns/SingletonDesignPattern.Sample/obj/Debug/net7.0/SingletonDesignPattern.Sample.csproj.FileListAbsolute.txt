@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\bin\Debug\net7.0\SingletonDesignPattern.Sample.exe
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\bin\Debug\net7.0\SingletonDesignPattern.Sample.deps.json
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\bin\Debug\net7.0\SingletonDesignPattern.Sample.runtimeconfig.json
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\bin\Debug\net7.0\SingletonDesignPattern.Sample.dll
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\bin\Debug\net7.0\SingletonDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.AssemblyInfo.cs
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.dll
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\refint\SingletonDesignPattern.Sample.dll
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.pdb
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\SingletonDesignPattern.Sample.genruntimeconfig.cache
+C:\Users\demur\Desktop\SingletonDesignPattern.Sample\obj\Debug\net7.0\ref\SingletonDesignPattern.Sample.dll

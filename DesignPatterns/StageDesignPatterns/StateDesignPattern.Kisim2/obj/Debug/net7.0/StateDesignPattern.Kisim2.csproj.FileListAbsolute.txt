@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\bin\Debug\net7.0\StateDesignPattern.Kisim2.exe
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\bin\Debug\net7.0\StateDesignPattern.Kisim2.deps.json
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\bin\Debug\net7.0\StateDesignPattern.Kisim2.runtimeconfig.json
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\bin\Debug\net7.0\StateDesignPattern.Kisim2.dll
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\bin\Debug\net7.0\StateDesignPattern.Kisim2.pdb
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.AssemblyInfo.cs
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.dll
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\refint\StateDesignPattern.Kisim2.dll
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.pdb
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\StateDesignPattern.Kisim2.genruntimeconfig.cache
+C:\Users\demur\Desktop\StateDesignPattern.Kisim2\obj\Debug\net7.0\ref\StateDesignPattern.Kisim2.dll
