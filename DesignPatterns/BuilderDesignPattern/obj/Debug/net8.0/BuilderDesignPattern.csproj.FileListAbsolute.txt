@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.exe
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.deps.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.runtimeconfig.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\bin\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.sourcelink.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\refint\BuilderDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.pdb
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\BuilderDesignPattern.genruntimeconfig.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\BuilderDesignPattern\obj\Debug\net8.0\ref\BuilderDesignPattern.dll

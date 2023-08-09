@@ -1,0 +1,15 @@
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.sourcelink.json
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\demur\Desktop\.NetAPI\DesignPatterns\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll

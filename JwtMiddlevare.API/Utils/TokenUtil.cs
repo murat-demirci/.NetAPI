@@ -17,7 +17,7 @@ namespace JwtMiddlevare.API.Utils
         }
         public async Task<Tokenresponse> GenerateToken(UserModel user)
         {
-            if (jwtSettings.Key == null) return null!;
+            if (String.IsNullOrEmpty(jwtSettings.Key)) return null!;
 
             var key = Encoding.ASCII.GetBytes(jwtSettings.Key);
             var jwtTokenHandler = new JwtSecurityTokenHandler();

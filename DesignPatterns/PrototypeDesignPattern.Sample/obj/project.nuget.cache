@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pfg9D1eg1lNtvOWlYpdRanXAZUoM25fL+ija4sz4Vzh6GJcYbc6nv7AWT4Ex7aXqtyxOTnX/3gsPqSDpDm7flA==",
+  "dgSpecHash": "TSZWLk4QPETmj/FUKx14NgIHtJb3bpZhSY6n5rjtRIPfSp9fcS3jnEEfrvtDT1p5TiJ7p13e0Yy5skpqrXUHOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\demur\\Desktop\\PrototypeDesignPattern.Sample\\PrototypeDesignPattern.Sample.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\demur\\Desktop\\.NetAPI\\DesignPatterns\\PrototypeDesignPattern.Sample\\PrototypeDesignPattern.Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demur\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\demur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\demur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\demur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

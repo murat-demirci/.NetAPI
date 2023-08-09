@@ -17,9 +17,9 @@
             Fiyat = fiyat;
         }
 
-        public override PrototypeBook Clone()
+        public override Book Clone()
         {
-            return MemberwiseClone() as PrototypeBook;
+            return MemberwiseClone() as Book;
         }
     }
 }
